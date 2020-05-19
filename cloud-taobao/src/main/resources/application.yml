@@ -1,0 +1,9 @@
+server:
+  port: 6702
+
+eureka:
+  client:
+    service-url: http://localhost:6701/eureka
+spring:
+  application:
+    name: cloud-taobao

@@ -1,0 +1,6 @@
+server:
+  port: 6703
+
+spring:
+  application:
+    name: cloud-tmall
